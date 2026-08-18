@@ -167,7 +167,7 @@ Computer Engineering Student | Android Developer | Java & Kotlin Enthusiast
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=bhargav7655"
+    src="./profile/streak.svg"
     alt="GitHub Streak"
   />
 </p>

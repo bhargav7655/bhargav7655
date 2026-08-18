@@ -14,12 +14,10 @@ Computer Engineering Student | Android Developer | Java & Kotlin Enthusiast
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="./profile/trophy.svg"
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img
+    src="./profile/trophy.svg"
+    alt="GitHub Trophies"
+  />
 </p>
 
 - 🔭 I’m currently working on **Android applications using Kotlin and backend projects with Spring Boot.**

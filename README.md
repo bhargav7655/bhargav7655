@@ -5,12 +5,18 @@ Computer Engineering Student | Android Developer | Java & Kotlin Enthusiast
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhargav7655&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav7655" />
+  <img
+    src="https://komarev.com/ghpvc/?username=bhargav7655&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhargav7655" alt="GitHub Trophies" />
+    <img
+      src="./profile/trophy.svg"
+      alt="GitHub Trophies"
+    />
   </a>
 </p>
 
@@ -30,10 +36,14 @@ Computer Engineering Student | Android Developer | Java & Kotlin Enthusiast
 
 - ⚡ Fun fact **I enjoy turning ideas into real apps and constantly learning new technologies.**
 
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.leetcode.com/bhargav7655" target="_blank">
+  <a
+    href="https://www.leetcode.com/bhargav7655"
+    target="_blank"
+  >
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
@@ -44,9 +54,11 @@ Computer Engineering Student | Android Developer | Java & Kotlin Enthusiast
   </a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -145,7 +157,9 @@ Computer Engineering Student | Android Developer | Java & Kotlin Enthusiast
       height="40"
     />
   </a>
+
 </p>
+
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -163,6 +177,7 @@ Computer Engineering Student | Android Developer | Java & Kotlin Enthusiast
   />
 </p>
 
+
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
@@ -172,21 +187,26 @@ Computer Engineering Student | Android Developer | Java & Kotlin Enthusiast
   />
 </p>
 
+
 <h2 align="center">🐍 My Contributions</h2>
 
 <p align="center">
   <picture>
+
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/bhargav7655/bhargav7655/output/github-contribution-grid-snake-dark.svg"
     />
+
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/bhargav7655/bhargav7655/output/github-contribution-grid-snake.svg"
     />
+
     <img
       src="https://raw.githubusercontent.com/bhargav7655/bhargav7655/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
     />
+
   </picture>
 </p>

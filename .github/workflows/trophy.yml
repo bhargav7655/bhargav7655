@@ -16,13 +16,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Trophy
-        run: |
-          mkdir -p profile
-          curl -L "https://github-profile-trophy.vercel.app/?username=bhargav7655&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" \
-            -o profile/trophy.svg
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=bhargav7655&theme=darkhub&column=6&margin-w=15&margin-h=15'
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit trophy
+      - name: Commit trophy card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
